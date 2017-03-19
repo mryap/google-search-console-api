@@ -5,3 +5,4 @@ Help a client setup a daily automated pull of Organic search data to get around 
 
 ![My image](https://github.com/mryap/google-search-console-api/blob/master/nintydays_google_search.png)
 
+![My image](https://github.com/mryap/google-search-console-api/blob/master/google_api.PNG)
